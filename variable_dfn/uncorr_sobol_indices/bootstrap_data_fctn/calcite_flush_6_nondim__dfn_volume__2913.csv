@@ -1,0 +1,5 @@
+"","dfn_volume","output_var","input_var","sobol_type","boot_num"
+"1",0.00108313433106647,"calcite_flush_6_nondim","dfn_volume","FOmean",2913
+"2",5.55081012342088e-07,"calcite_flush_6_nondim","dfn_volume","TEmean",2913
+"3",8.71557344599607e-07,"calcite_flush_6_nondim","dfn_volume","FOsd2",2913
+"4",8.92857970270704e-07,"calcite_flush_6_nondim","dfn_volume","TEsd2",2913

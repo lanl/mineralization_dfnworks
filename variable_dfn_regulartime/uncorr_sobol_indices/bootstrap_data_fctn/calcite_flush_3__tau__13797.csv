@@ -1,0 +1,5 @@
+"","tau","output_var","input_var","sobol_type","boot_num"
+"1",4.6564719321295e-05,"calcite_flush_3","tau","FOmean",13797
+"2",1.54811374908283e-07,"calcite_flush_3","tau","TEmean",13797
+"3",1.89566609218843e-07,"calcite_flush_3","tau","FOsd2",13797
+"4",2.29571034955264e-07,"calcite_flush_3","tau","TEsd2",13797

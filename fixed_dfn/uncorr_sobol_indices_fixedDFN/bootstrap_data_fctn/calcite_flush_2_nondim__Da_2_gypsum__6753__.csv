@@ -1,0 +1,5 @@
+"","Da_2_gypsum","output_var","input_var","sobol_type","boot_num"
+"1",-2.22434304940841e-06,"calcite_flush_2_nondim","Da_2_gypsum","FOmean",6753
+"2",3.41928298174783e-15,"calcite_flush_2_nondim","Da_2_gypsum","TEmean",6753
+"3",4.47963920771925e-15,"calcite_flush_2_nondim","Da_2_gypsum","FOsd2",6753
+"4",3.2064656768279e-16,"calcite_flush_2_nondim","Da_2_gypsum","TEsd2",6753

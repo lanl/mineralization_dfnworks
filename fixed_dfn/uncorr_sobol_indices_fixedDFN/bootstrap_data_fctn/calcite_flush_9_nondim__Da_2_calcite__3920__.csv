@@ -1,0 +1,5 @@
+"","Da_2_calcite","output_var","input_var","sobol_type","boot_num"
+"1",0.000580821283233405,"calcite_flush_9_nondim","Da_2_calcite","FOmean",3920
+"2",5.6131078738491e-08,"calcite_flush_9_nondim","Da_2_calcite","TEmean",3920
+"3",18714848844006.4,"calcite_flush_9_nondim","Da_2_calcite","FOsd2",3920
+"4",3638516662562.83,"calcite_flush_9_nondim","Da_2_calcite","TEsd2",3920

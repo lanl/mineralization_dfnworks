@@ -1,0 +1,5 @@
+"","Pe","output_var","input_var","sobol_type","boot_num"
+"1",0.00187225315079657,"max_calcite","Pe","FOmean",512
+"2",9.53518996786082e-09,"max_calcite","Pe","TEmean",512
+"3",1.15349987002352e-06,"max_calcite","Pe","FOsd2",512
+"4",1.18140190886047e-06,"max_calcite","Pe","TEsd2",512
