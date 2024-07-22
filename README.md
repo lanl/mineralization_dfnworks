@@ -26,7 +26,7 @@ The figures in the paper can be recreated by running the file run_all_plots.R.  
 
 * variable_dfn_regulartime/data
 
-This is due to the very large size of a typical dfnWorks output; we compiled this data using scripts in this repository, removing extraneous output for space considerations.  The raw output can be produced using the dfnWorks software suite, using the files in generate_dfns.  The corresponding seeds a specific inputs can be found in these directories.
+This is due to the very large size of a typical dfnWorks output; we compiled this data using scripts in this repository, removing extraneous output for space considerations.  The raw output can be produced using the dfnWorks software suite, using the files in generate_dfns.  The corresponding seeds a specific inputs can be found in these directories.  Some of the figures in the paper were made manually; the source files for these are available upon request.
 
 ## Software Required
 To create underground particle transport simulation data, one will need access to the dfnWorks simulation suite, available for download [here](https://dfnworks.lanl.gov/). The dfnWorks data files are included in this repository.
